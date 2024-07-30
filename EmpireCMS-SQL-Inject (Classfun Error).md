@@ -16,7 +16,7 @@ The vulnerability exists in line 2095 of classfun, where the bname parameter is 
 
 ![image-20240729180518750](EmpireCMS-SQL-Inject (Classfun Error).assets/image-20240729180518750.png)
 
-![image-20240729180513675](EmpireCMS-SQL-Inject (Classfun Error).assets/image-20240729180513675.png)
+![image-20240729180513675](EmpireCMS-SQL-Inject (images1/image-20240729180513675.png)
 
 ### Vulnerability reproduction
 
